@@ -12,9 +12,7 @@
 <p align="left">
   <a href="https://github.com/hamza-ihind">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=hamza-ihind&show_icons=true&theme=tokyonight" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=hamza-ihind&theme=tokyonight" />
+  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=hamza-ihind&theme=tokyonight" />
   </a>
 </p>
 <br>
-
-[![E11even's Activity Graph](https://activity-graph.herokuapp.com/graph?username=hamza-ihind&custom_title=maria%20aboulaala's%20Contribution%20Graph&theme=tokyonight&)](https://github.com/maria-aboulaala)
